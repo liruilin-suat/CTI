@@ -1,0 +1,26 @@
+# ignore dir
+datasets/
+dataset/
+log/
+results/
+saved_model/
+.idea/
+**/__pycache__/
+experiment/
+
+
+# ignore files
+*.pyc
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+*.h5
+*.pb
+*.log
+tmp*
+temp*
+dataset.md
+experiments.md
+record

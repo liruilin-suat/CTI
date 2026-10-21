@@ -1,0 +1,6 @@
+[submodule "third2"]
+	path = third2
+	url = https://github.com/xiaoyiliu-usc/MVML-MPI.git
+[submodule "MVML-MPI-main"]
+	path = MVML-MPI-main
+	url = https://github.com/xiaoyiliu-usc/MVML-MPI.git
